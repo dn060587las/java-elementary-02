@@ -86,6 +86,10 @@ public class Test {
          */
 
         System.out.println("Test class");
+        /**
+         * git config --global --unset user.password
+         * git remote show origin
+         */
     }
 
 }
