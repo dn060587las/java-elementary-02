@@ -89,6 +89,8 @@ public class Test {
         /**
          * git config --global --unset user.password
          * git remote show origin
+         * git config --global --unset-all user.name
+         * git config --global --add user.name <whatever>
          */
     }
 
